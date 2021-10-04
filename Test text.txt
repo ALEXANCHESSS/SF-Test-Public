@@ -1,1 +1,2 @@
 It's new string!!!
+Is's two string!
